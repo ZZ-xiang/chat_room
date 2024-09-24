@@ -1,0 +1,9 @@
+####
+#可执行程序
+#####
+*.exe
+*.txt
+a.out
+test_client
+test_server
+test_redis
